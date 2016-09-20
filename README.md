@@ -6,4 +6,6 @@ This was my attempt at putting many of the neural network concepts and machine l
 * It allows for partial visualization of theta matrices and defines a few functions to operate on theta matrices in a way that simplifies visualization, troubleshooting, and working with SciPy.optimize.minimize params expectations.
 * It defines an easy way of breaking up the 5000 example set into a training and a test set. You can simply define a % and the code will break up the data into randomized test and training sets. It is kind of fun try different strategies for various NN shapes along with different regularization coefficients to try to get the best test set accuracy score.  I once got a 94.88% with a 20% test set breakout!
 * I put in some vizualization code that shows the handwritten digit at a few different angles, along with the label and prediction data to get a feel for how the neural network reacts to different situations.
-* 
+* It *seems* to be error free at this point, but please feel free to issue a push request if you find any errors in my implementation of the algorithms.
+
+If you enjoyed this notebook, have any feedback, or comments, I'd love to hear them! Thanks, Jason.
